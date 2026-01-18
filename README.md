@@ -1,16 +1,22 @@
-## Hi there 👋
+# Antonio Amore Akiki
 
-<!--
-**antonio-amore-akiki/antonio-amore-akiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aerospace and Manufacturing Engineer with hands-on industrial experience in advanced manufacturing,
+composite materials, structural analysis, and AI-assisted engineering solutions.
 
-Here are some ideas to get you started:
+## Core Expertise
+- Aerospace structures and composites (thermoplastic materials, damage modeling)
+- Advanced manufacturing and robotics (CAD/CAM, automation)
+- Finite Element Analysis (static, dynamic, impact, crash)
+- AI-assisted engineering, machine learning, and LLM-based automation
+- Experimental testing, validation, and certification workflows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools & Technologies
+Abaqus, COMSOL, Ansys, CATIA, SolidWorks, Siemens NX, Python, MATLAB, CNC, LLMs
+
+## Experience Highlights
+- Airbus Commercial Aircraft – composite structures and certification-driven validation
+- Advanced laser-powered robotic manufacturing systems
+- Industrial process optimization with measurable performance gains
+
+📍 Enschede, Netherlands  
+🔗 LinkedIn: https://linkedin.com/in/antonio-amore-akiki
