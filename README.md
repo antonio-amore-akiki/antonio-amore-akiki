@@ -11,7 +11,7 @@ composite materials, structural analysis, and AI-assisted engineering solutions.
 - Experimental testing, validation, and certification workflows
 
 ## Tools & Technologies
-Abaqus, COMSOL, Ansys, CATIA, SolidWorks, Siemens NX, Python, MATLAB, CNC, LLMs
+Abaqus, COMSOL, Ansys, SolidWorks, Siemens NX, Python, MATLAB. TypeScript, Go.
 
 ## Experience Highlights
 - Airbus Commercial Aircraft – composite structures and certification-driven validation
