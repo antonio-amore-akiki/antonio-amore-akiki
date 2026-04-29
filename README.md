@@ -7,7 +7,7 @@ composite materials, structural analysis, and AI-assisted engineering solutions.
 - Aerospace structures and composites (thermoplastic materials, damage modeling)
 - Advanced manufacturing and robotics (CAD/CAM, automation)
 - Finite Element Analysis (static, dynamic, impact, crash)
-- AI-assisted engineering, machine learning, and LLM-based automation
+- AI-powered engineering, deep learning, and agentic-supercharged automation
 - Experimental testing, validation, and certification workflows
 
 ## Tools & Technologies
